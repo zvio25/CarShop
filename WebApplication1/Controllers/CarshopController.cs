@@ -7,6 +7,7 @@ using WebApplication1.Models;
 namespace WebApplication1.Controllers
 {
     // samsaxurshi shetanili cvlilebebi
+    // saxlshi davamate ragaceebi
     public class CarshopController : Controller
     {
         // GET: Carshop
