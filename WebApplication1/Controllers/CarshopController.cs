@@ -6,9 +6,9 @@ using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
+    // samsaxurshi shetanili cvlilebebi
     public class CarshopController : Controller
     {
-
         // GET: Carshop
         public ActionResult Index()
         {
